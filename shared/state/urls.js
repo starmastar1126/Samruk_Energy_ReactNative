@@ -1,0 +1,28 @@
+let data = {
+  organizations: "/api/organizations",
+  login: "/api/login",
+  categories: "/api/categories",
+  subcategories: "/api/categories/{:id}/subcategories",
+  new_ticket: "/api/ticket",
+  employees: "/api/users",
+  my_tasks: "/api/my-tickets",
+  assigned_tasks: "/api/assigned-tickets",
+  departments: "/api/departments",
+  department: "/api/department/",
+  task_help_video: "/api/help_video",
+  task: "/api/ticket/",
+  structure: "/api/orgstuct",
+  compliance_faq: "/api/komplaens/faq?page=",
+  projects: "/api/projects",
+  project: "/api/project/",
+  news_categories: "/api/news/categories",
+  category_news: "/api/news/category/",
+  news: "/api/news/",
+  take_task: "/api/ticket/accept-ticket/",
+  task_close: "/api/ticket/close/",
+  task_comment: "/api/ticket/comment/",
+  educational_materials: "/api/komplaens/posts",
+  compliance_videos: "/api/komplaens/videos",
+  process_owners: "/api/buisnessprocess"
+};
+module.exports = data;

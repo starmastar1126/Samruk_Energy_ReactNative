@@ -1,0 +1,19 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="kz.samrukenergy.portal">
+
+  <uses-permission android:name="android.permission.INTERNET" />
+
+  <application android:name=".MainApplication" android:allowBackup="false" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:networkSecurityConfig="@xml/network_security_config" android:theme="@style/AppTheme">
+    <activity android:name=".MainActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:label="@string/app_name" android:windowSoftInputMode="adjustResize">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+    <!--<meta-data android:name="io.fabric.ApiKey" android:value="<FABRIC_API_KEY>" />-->
+      <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="c8a640777b9d2ee750e04984a9cedb11a06249c9" />
+    </application>
+
+</manifest>

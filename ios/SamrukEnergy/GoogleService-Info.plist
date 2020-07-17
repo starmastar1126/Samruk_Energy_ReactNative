@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>279624001966-2v1d1kcmo6058nirsh1dl6nhfks608tl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.279624001966-2v1d1kcmo6058nirsh1dl6nhfks608tl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>279624001966-pft645pflfuqr717umnqe62pli3pshoh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPknmf3Tiano0vnmeSr_9KADpoVFvXRaQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>279624001966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kz.samrukenergy.portal</string>
+	<key>PROJECT_ID</key>
+	<string>samruk-energy-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>samruk-energy-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:279624001966:ios:7694b735a89c7e46</string>
+	<key>DATABASE_URL</key>
+	<string>https://samruk-energy-app.firebaseio.com</string>
+</dict>
+</plist>
